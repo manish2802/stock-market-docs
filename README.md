@@ -10,3 +10,5 @@
 9. stock-market-service-registry
 10. stock-market-devops
 11. stock-market-docs
+
+<img width="503" height="314" alt="image" src="https://github.com/user-attachments/assets/39163fbe-349a-48bf-904b-41934eac3dec" />
