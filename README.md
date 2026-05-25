@@ -12,3 +12,6 @@
 11. stock-market-docs
 
 <img width="503" height="314" alt="image" src="https://github.com/user-attachments/assets/39163fbe-349a-48bf-904b-41934eac3dec" />
+
+<img width="296" height="356" alt="image" src="https://github.com/user-attachments/assets/64a14d49-2811-4261-aeb7-5f7853e4cdfa" />
+
